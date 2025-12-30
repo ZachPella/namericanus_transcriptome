@@ -15,10 +15,9 @@ This repository contains the complete bioinformatics pipeline for analyzing diff
 - 8,376 differentially expressed genes between adult females and L3 larvae  
 - 4,342 differentially expressed genes between adult females and males
 <img width="652" height="968" alt="Untitled Diagram drawio (16)" src="https://github.com/user-attachments/assets/e5e89309-d680-4aaf-aadb-5e896a3edc79" />
-[volcano_plot_Adult_vs_L3.pdf](https://github.com/user-attachments/files/24388192/volcano_plot_Adult_vs_L3.pdf)
-[volcano_plot_Female_vs_L3.pdf](https://github.com/user-attachments/files/24388197/volcano_plot_Female_vs_L3.pdf)
-[volcano_plot_Female_vs_Male.pdf](https://github.com/user-attachments/files/24388198/volcano_plot_Female_vs_Male.pdf)
-[volcano_plot_Male_vs_L3.pdf](https://github.com/user-attachments/files/24388201/volcano_plot_Male_vs_L3.pdf)
+<img width="3000" height="2400" alt="volcano_plot_Female_vs_L3" src="https://github.com/user-attachments/assets/0638c4a2-eccd-44fc-b98a-da5789d4e933" />
+<img width="3000" height="2400" alt="volcano_plot_Female_vs_Male" src="https://github.com/user-attachments/assets/a20aa177-74d4-4beb-b960-2159ef6c32ee" />
+<img width="3000" height="2400" alt="volcano_plot_Male_vs_L3" src="https://github.com/user-attachments/assets/fb4aa2b0-9bfd-46f6-bb31-7ff347702d54" />
 <img width="3000" height="1800" alt="top10_GO_BP_L3_upregulated" src="https://github.com/user-attachments/assets/c757d6ec-3a05-4385-92ec-4a068baec235" />
 <img width="3000" height="1800" alt="top10_GO_MF_L3_upregulated" src="https://github.com/user-attachments/assets/5b749d73-c968-4215-b749-b0eecdc7e250" />
 <img width="3000" height="1800" alt="top10_GO_CC_L3_upregulated" src="https://github.com/user-attachments/assets/7f80f7a0-a4bc-4c29-92ba-d0691e0d2020" />
