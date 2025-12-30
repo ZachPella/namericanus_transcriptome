@@ -195,6 +195,17 @@ of Necator americanus. [Journal name]. DOI: XX.XXXX/XXXXXX
 **Raw data availability:** [SRA/GEO accession number]
 
 ---
+<img width="3000" height="2400" alt="volcano_plot_Adult_vs_L3" src="https://github.com/user-attachments/assets/9707f179-d561-41b9-a41c-43b541d2c6d9" />
+
+<img width="3000" height="1800" alt="top10_GO_BP_Adult_vs_L3" src="https://github.com/user-attachments/assets/3470f52b-e566-4925-8567-dce19b74ca30" />
+
+<img width="3000" height="1800" alt="top10_GO_CC_Adult_vs_L3" src="https://github.com/user-attachments/assets/a4d021df-093e-4029-a24d-2c1d5ce2ef1b" />
+
+<img width="3000" height="1800" alt="top10_GO_MF_Adult_vs_L3" src="https://github.com/user-attachments/assets/134f11a9-1f7c-4009-923d-87d305cc7026" />
+
+
+
+
 
 ## Contact
 
