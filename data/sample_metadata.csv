@@ -1,0 +1,13 @@
+sample_id,sample_name,life_stage,replicate,sequencing_platform,read_length,library_prep
+1,Na-2-female-mRNA_S2_L005,Female,1,Element_Aviti,150,polyA
+2,2femaleB,Female,2,Element_Aviti,150,polyA
+3,2femaleC,Female,3,Element_Aviti,150,polyA
+4,2femaleD,Female,4,Element_Aviti,150,polyA
+5,Na-3-male-mRNA_S1_L005,Male,1,Element_Aviti,150,polyA
+6,3maleB,Male,2,Element_Aviti,150,polyA
+7,3maleC,Male,3,Element_Aviti,150,polyA
+8,3maleD,Male,4,Element_Aviti,150,polyA
+9,Na-L3-A_AiD-mRNA_S3_L005,L3,1,Element_Aviti,150,polyA
+10,L3E,L3,2,Element_Aviti,150,polyA
+11,L3F,L3,3,Element_Aviti,150,polyA
+12,L3G,L3,4,Element_Aviti,150,polyA

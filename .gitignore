@@ -1,0 +1,46 @@
+# Large data files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bam.bai
+*.sam
+*.cram
+
+# BRAKER outputs (too large)
+braker_annotation/
+*.gtf
+*.gff
+*.gff3
+*.fasta
+*.fa
+
+# Intermediate files
+*.tmp
+*.log
+slurm-*.out
+*.err
+
+# R files
+.Rhistory
+.RData
+.Rproj.user
+
+# Python
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Keep structure but ignore large outputs
+results/bam_files/
+results/sam_files/
+results/fastqc_reports/*.html
+results/fastqc_reports/*.zip
+
+# But keep the scripts!
+!scripts/
+!docs/
