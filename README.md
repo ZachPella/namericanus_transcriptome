@@ -14,6 +14,7 @@ This repository contains the complete bioinformatics pipeline for analyzing diff
 - 9,116 differentially expressed genes between adult males and L3 larvae
 - 8,376 differentially expressed genes between adult females and L3 larvae  
 - 4,342 differentially expressed genes between adult females and males
+<img width="652" height="968" alt="Untitled Diagram drawio (16)" src="https://github.com/user-attachments/assets/e5e89309-d680-4aaf-aadb-5e896a3edc79" />
 
 ---
 
