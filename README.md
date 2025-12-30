@@ -15,6 +15,7 @@ This repository contains the complete bioinformatics pipeline for analyzing diff
 - 8,376 differentially expressed genes between adult females and L3 larvae  
 - 4,342 differentially expressed genes between adult females and males
 <img width="652" height="968" alt="Untitled Diagram drawio (16)" src="https://github.com/user-attachments/assets/e5e89309-d680-4aaf-aadb-5e896a3edc79" />
+<img width="3000" height="2400" alt="volcano_plot_Adult_vs_L3" src="https://github.com/user-attachments/assets/c2909cca-3e52-4165-a56f-f6d814d80fb3" />
 <img width="3000" height="2400" alt="volcano_plot_Female_vs_L3" src="https://github.com/user-attachments/assets/0638c4a2-eccd-44fc-b98a-da5789d4e933" />
 <img width="3000" height="2400" alt="volcano_plot_Female_vs_Male" src="https://github.com/user-attachments/assets/a20aa177-74d4-4beb-b960-2159ef6c32ee" />
 <img width="3000" height="2400" alt="volcano_plot_Male_vs_L3" src="https://github.com/user-attachments/assets/fb4aa2b0-9bfd-46f6-bb31-7ff347702d54" />
